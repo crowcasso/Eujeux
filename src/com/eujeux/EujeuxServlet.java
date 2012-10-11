@@ -1,6 +1,8 @@
 package com.eujeux;
 
 /**
+ * Servlet that shows a single user's games to that user.
+ * 
  * @author J. Hollingsworth
  */
 
